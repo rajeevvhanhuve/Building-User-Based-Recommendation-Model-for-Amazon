@@ -1,6 +1,4 @@
-# Data Science with Python: Project 5
-
-### Building User-Based Recommendation Model for Amazon
+## Building User-Based Recommendation Model for Amazon
 
 DESCRIPTION
 
